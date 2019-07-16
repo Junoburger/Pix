@@ -1,5 +1,5 @@
 Pix
 =======
 
-## A React Based Image Search Engine
+## A React Based Unsplash Image Search Engine
 # Pix
